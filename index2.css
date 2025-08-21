@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: rgb(246, 234, 212);
+}
+
+.wrap {
+    background-color: #fff;
+    width: 770px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    font-size: 16px;
+
+}
+
+figure {
+    width: 100%;
+    margin: 20px auto;
+
+}
+
+figure img {
+    width: 100%;
+}
+
+figcaption {
+    color: #6b6868;
+    font-size: 14px;
+    margin-top: 10px;
+    /* 只設定圖片描述跟圖片的留白 */
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 20px 0px;
+    line-height: 1.8;
+    /* 行跟行之間的距離= 1.8 行 */
+}
